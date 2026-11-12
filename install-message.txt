@@ -1,0 +1,22 @@
+Hi,
+
+Here is how to install Saphal on your Windows computer. It takes about 5 minutes.
+
+1. Click this link to download:
+https://github.com/SShogun/saphal-releases/releases/latest/download/Saphal-Setup.exe
+
+2. Open the downloaded file "Saphal-Setup.exe" (it is in your Downloads folder).
+
+3. Windows may show a blue box saying "Windows protected your PC". This is normal. It shows up because Saphal is a new app that Windows does not know yet.
+   - Click "More info" (a small link in the box).
+   - Then click "Run anyway".
+
+4. Wait a few seconds. Saphal installs and opens. A Saphal icon appears on your desktop.
+
+5. Sign in with the email and password your admin gave you. Saphal signs you out after 12 hours, so just sign in again.
+
+If you have no email and password, or you forgot your password, ask your admin.
+
+If Saphal says it cannot reach the server, check your internet, close and reopen Saphal, and wait a minute. If it still fails, contact your admin.
+
+Thanks!
